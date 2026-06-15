@@ -110,6 +110,19 @@ n_awds_interactive
 obs_interactive
 ```
 
+## Award Terminations
+### By (Former) Division
+
+```{r}
+terminated_bar
+```
+
+## Award Termination
+### A Geographic Look
+```{r}
+terminated_girafe
+```
+
 ## Some light thematic analysis
 ### Term Frequency - Inverse Document Frequency (TF-IDF)
 
@@ -137,19 +150,6 @@ ear
 ### Atmsopheric Sciences
 ```{r}
 ags
-```
-
-## Award Terminations
-### By (Former) Division
-
-```{r}
-terminated_bar
-```
-
-## Award Termination
-### A Geographic Look
-```{r}
-terminated_girafe
 ```
 
 ## Questions?
