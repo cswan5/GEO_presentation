@@ -151,3 +151,15 @@ terminated_bar
 ```{r}
 terminated_girafe
 ```
+
+## Questions?
+
+::::{.columns}
+:::{.column width="50%"}
+![Google Scholar](google_scholar_qr.png)
+:::
+
+:::{.column width="50%"}
+![Github](github_qr.png)
+:::
+::::
